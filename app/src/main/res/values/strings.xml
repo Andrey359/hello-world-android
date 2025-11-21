@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="hello_kotlin">Hello Kotlin!</string>
+    <string name="click_me">Нажми меня</string>
+    <string name="click_count">Нажатий: %1$d</string>
+    <string name="click_count_zero">Нажатий: 0</string>
+</resources>
